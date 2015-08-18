@@ -1,0 +1,5 @@
+name: FixBiome
+main: ifteam\FixBiome\FixBiome
+version: 0.1-Alpha
+author: hm
+api: [1.12.0]
